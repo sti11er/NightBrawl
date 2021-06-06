@@ -1,5 +1,8 @@
 # NightBrawl
 
+<img src="https://imgur.com/CBoSqVR" width="20%" />
+Game in itch.io[here](https://sti11er.itch.io/nightbrawl)
+
 Pixel art 2D online platformer with horror elements
 
 #### About the game
